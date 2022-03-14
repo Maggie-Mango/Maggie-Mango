@@ -3,13 +3,13 @@
 
 - 🥚 My most recent team project is [SoundTok](https://soundtok.live/)
 
-- 🌱 I’m currently learning **React Native, Rust, LeetCode**
+- 🌱 I’m currently studying **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **open-source or full-stack projects**
 
-- 🤝 I’m (casually) looking for **the next big thing**
+- 🤝 I’m (casually) looking for **the next big thing remotely or in NYC**
 
-- 💬 Ask me about **data visualization, databases, fintech, payments, money movement**
+- 💬 Ask me about **data visualization, databases, fintech, payments, and money movement**
 
 - 📫 How to reach me **maggiesaldivia@gmail.com**
 
