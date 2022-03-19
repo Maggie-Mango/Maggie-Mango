@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maggie</h1>
 <h3 align="center">A passionate full-stack developer in NYC 🗽</h3>
 
+- 💼 Check out my [portfolio site](https://msaldivia.onrender.com/)
+
 - 🥚 My most recent team project is [SoundTok](https://soundtok.live/)
 
 - 🌱 I’m currently studying **Data Structures and Algorithms**
